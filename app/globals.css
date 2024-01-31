@@ -256,6 +256,7 @@ body {
 /* ========================================== REACT-DATEPICKER STYLES */
 .datePicker {
   width: 100%;
+  background-color: #624cf5;
 }
 
 .react-datepicker__input-container input {
